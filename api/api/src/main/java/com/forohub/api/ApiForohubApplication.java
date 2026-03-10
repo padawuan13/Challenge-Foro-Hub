@@ -1,0 +1,13 @@
+package com.forohub.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApiForohubApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ApiForohubApplication.class, args);
+    }
+
+}
